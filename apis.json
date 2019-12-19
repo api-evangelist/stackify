@@ -1,0 +1,60 @@
+{
+    "name": "Stackify",
+    "description": "Stackify's tools combine monitoring, errors, logs, and metrics in one tool. Find bugs and identify ways to improve your app at every step of the development process. Download Prefix for free and start a free trial of Retrace in order to diagnose applic...",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/10321-stackify.jpg",
+    "tags": [
+        "analysis",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/stackify\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Stackify",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/10321-stackify.jpg",
+            "humanURL": "http:\/\/stackify.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/stackify-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/stackify-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/stackify.com\/blog\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/stackify.com\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/stackify"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/stackify"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/Stackify"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/stackify.com\/"
+        }
+    ]
+}
